@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "A Mini Bookdown for Week 3 Assignment"
+author: "Agnes Wong"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
